@@ -1,0 +1,9 @@
+{
+  "modifyObstructiveCode": false,
+  "chromeWebSecurity": false,
+  "baseUrl": "https://hoclieu.sachmem.vn/",
+  "env": {
+    "email": "giaovien1@sachmem.vn",
+    "password": "giaovien1@123"
+  }
+}
